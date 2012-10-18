@@ -1,6 +1,7 @@
 
 #import "TencentRequest.h"
-#import "JSON.h"
+//#import "JSON.h"
+#import "JSONKit.h"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // global
@@ -128,7 +129,7 @@ responseText = _responseText;
 							   data:[NSString stringWithFormat:
 									 @"Content-Disposition: form-data; filename=\"%@\"\r\n", key]];
 				[self utfAppendBody:body
-							   data:[NSString stringWithString:@"Content-Type: image/png\r\n\r\n"]];
+							   data:@"Content-Type: image/png\r\n\r\n"];
 				[body appendData:imageData];
 			} else {
 				NSAssert([dataParam isKindOfClass:[NSData class]],
@@ -137,7 +138,7 @@ responseText = _responseText;
 							   data:[NSString stringWithFormat:
 									 @"Content-Disposition: form-data; filename=\"%@\"\r\n", key]];
 				[self utfAppendBody:body
-							   data:[NSString stringWithString:@"Content-Type: content/unknown\r\n\r\n"]];
+							   data:@"Content-Type: content/unknown\r\n\r\n"];
 				[body appendData:(NSData*)dataParam];
 			}
 			[self utfAppendBody:body data:endLine];
@@ -210,7 +211,8 @@ responseText = _responseText;
 	NSLog(@"%@",[[NSString alloc]initWithData:data encoding:enc]);
 	
 	NSLog(@"%@",responseString);
-	SBJSON *jsonParser = [[SBJSON new] autorelease];
+//	SBJSON *jsonParser = [[SBJSON new] autorelease];
+    JSONDecoder *jsonParser = [[JSONDecoder alloc] init];
 	if ([responseString isEqualToString:@"true"]) {
 		return [NSDictionary dictionaryWithObject:@"true" forKey:@"result"];
 	} else if ([responseString isEqualToString:@"false"]) {
@@ -224,7 +226,7 @@ responseText = _responseText;
 	}
 	
 	
-	id result = [jsonParser objectWithString:responseString];
+	id result = [jsonParser objectWithData:data];
 	
 	
 	if (![result isKindOfClass:[NSArray class]]) {

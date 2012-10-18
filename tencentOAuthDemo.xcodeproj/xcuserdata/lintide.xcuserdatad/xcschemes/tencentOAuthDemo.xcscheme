@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
+   LastUpgradeVersion = "0450"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -16,7 +17,7 @@
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
                BuildableName = "tencentOAuthDemo.app"
                BlueprintName = "tencentOAuthDemo"
-               ReferencedContainer = "container:../../../../../../../../../Volumes/Macintosh HD/Users/lintide/Documents/framework/iOS/open sns/qq/Connect_IOS_SDK__V1.1/TencentOAuthDemo/tencentOAuthDemo.xcodeproj">
+               ReferencedContainer = "container:tencentOAuthDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,7 +35,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "tencentOAuthDemo.app"
             BlueprintName = "tencentOAuthDemo"
-            ReferencedContainer = "container:../../../../../../../../../Volumes/Macintosh HD/Users/lintide/Documents/framework/iOS/open sns/qq/Connect_IOS_SDK__V1.1/TencentOAuthDemo/tencentOAuthDemo.xcodeproj">
+            ReferencedContainer = "container:tencentOAuthDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,7 +54,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "tencentOAuthDemo.app"
             BlueprintName = "tencentOAuthDemo"
-            ReferencedContainer = "container:../../../../../../../../../Volumes/Macintosh HD/Users/lintide/Documents/framework/iOS/open sns/qq/Connect_IOS_SDK__V1.1/TencentOAuthDemo/tencentOAuthDemo.xcodeproj">
+            ReferencedContainer = "container:tencentOAuthDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,7 +72,7 @@
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "tencentOAuthDemo.app"
             BlueprintName = "tencentOAuthDemo"
-            ReferencedContainer = "container:../../../../../../../../../Volumes/Macintosh HD/Users/lintide/Documents/framework/iOS/open sns/qq/Connect_IOS_SDK__V1.1/TencentOAuthDemo/tencentOAuthDemo.xcodeproj">
+            ReferencedContainer = "container:tencentOAuthDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
