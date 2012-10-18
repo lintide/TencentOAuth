@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	004CBD851483306C00D1E81E /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	004CBDC11483333400D1E81E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* tencentOAuthDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/a/Documents/tencentOAuthDemo/tencentOAuthDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	004CBE511483363E00D1E81E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 004CBE521483363E00D1E81E /* UIView.h */;
+		name = "UIView.h: 148";
+		rLen = 0;
+		rLoc = 6636;
+		rType = 0;
+		vrLen = 1811;
+		vrLoc = 5869;
+	};
+	004CBE521483363E00D1E81E /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+	004CC06514838CF100D1E81E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 004CBD851483306C00D1E81E /* CGGeometry.h */;
+		name = "CGGeometry.h: 271";
+		rLen = 0;
+		rLoc = 8443;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 8211;
+	};
+	0054DC071485C18C000A44E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D2EC147F54C8000A8B37 /* QFObject.h */;
+		name = "QFObject.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	0057C0AF148773D2003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D29A147F52EA000A8B37 /* APIResponse.m */;
+		name = "APIResponse.m: 12";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 146;
+	};
+	0057C0B3148773D2003F90E8 /* fgroup.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = fgroup.h;
+		path = "/Users/a/Downloads/headerdoc-8.0/ExampleHeaders/fgroup.h";
+		sourceTree = "<absolute>";
+	};
+	0057C0C0148775EE003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0057C0B3148773D2003F90E8 /* fgroup.h */;
+		name = "fgroup.h: 1";
+		rLen = 0;
+		rLoc = 22;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 1459;
+	};
+	0057C110148787AC003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D298147F52EA000A8B37 /* APIBase.m */;
+		name = "APIBase.m: 71";
+		rLen = 0;
+		rLoc = 1480;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 1317;
+	};
+	0057C12014878918003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D29E147F52EA000A8B37 /* TencentOAuth.m */;
+		name = "TencentOAuth.m: 645";
+		rLen = 0;
+		rLoc = 19245;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 21186;
+	};
+	0057C13E14878BDD003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D29D147F52EA000A8B37 /* TencentOAuth.h */;
+		name = "TencentOAuth.h: 355";
+		rLen = 0;
+		rLoc = 8428;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 8246;
+	};
+	0057C14414878BE9003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D299147F52EA000A8B37 /* APIResponse.h */;
+		name = "APIResponse.h: 29";
+		rLen = 0;
+		rLoc = 530;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 283;
+	};
+	0057C14E14878ECB003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D297147F52EA000A8B37 /* APIBase.h */;
+		name = "APIBase.h: 57";
+		rLen = 0;
+		rLoc = 1253;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 915;
+	};
+	0057C14F14878ECB003F90E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D29F147F52EA000A8B37 /* TencentRequest.h */;
+		name = "TencentRequest.h: 1";
+		rLen = 4547;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 3703;
+	};
+	0058ABDB148C9B9500EDE95A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D2A1147F52EA000A8B37 /* TencentTargetSelector.h */;
+		name = "TencentTargetSelector.h: 20";
+		rLen = 0;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 451;
+		vrLoc = 188;
+	};
+	0058AC50148CA41100EDE95A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* tencentOAuthDemoAppDelegate.m */;
+		name = "tencentOAuthDemoAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 1528;
+	};
+	0058AC51148CA41100EDE95A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* tencentOAuthDemoViewController.h */;
+		name = "tencentOAuthDemoViewController.h: 31";
+		rLen = 0;
+		rLoc = 712;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 411;
+	};
+	0058AE16148CBE3D00EDE95A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D29B147F52EA000A8B37 /* TencentLoginView.h */;
+		name = "TencentLoginView.h: 41";
+		rLen = 0;
+		rLoc = 1095;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 835;
+	};
+	005C7ADC14876FED00C9752F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D2ED147F54C8000A8B37 /* QFObject.m */;
+		name = "QFObject.m: 22";
+		rLen = 0;
+		rLoc = 794;
+		rType = 0;
+		vrLen = 1481;
+		vrLoc = 41;
+	};
+	007C6267148E275E00B976A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D29C147F52EA000A8B37 /* TencentLoginView.m */;
+		name = "TencentLoginView.m: 383";
+		rLen = 0;
+		rLoc = 13039;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 9346;
+	};
+	007C62C7148E2A6900B976A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* tencentOAuthDemoViewController.m */;
+		name = "tencentOAuthDemoViewController.m: 453";
+		rLen = 0;
+		rLoc = 17893;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 17782;
+	};
+	007C62F0148E2C6A00B976A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* tencentOAuthDemoViewController.m */;
+		name = "tencentOAuthDemoViewController.m: 456";
+		rLen = 215;
+		rLoc = 18009;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 17782;
+	};
+	009ED3E31484EBB700ECD6FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D2A0147F52EA000A8B37 /* TencentRequest.m */;
+		name = "TencentRequest.m: 297";
+		rLen = 0;
+		rLoc = 9090;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 8329;
+	};
+	009ED3E41484EBB700ECD6FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00E1D2A2147F52EA000A8B37 /* TencentTargetSelector.m */;
+		name = "TencentTargetSelector.m: 16";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 0;
+	};
+	009ED3E81484EBB700ECD6FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* tencentOAuthDemoAppDelegate.h */;
+		name = "tencentOAuthDemoAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 529;
+		vrLoc = 0;
+	};
+	00E1D273147F52B4000A8B37 /* tencentOAuthDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = tencentOAuthDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	00E1D27E147F52D3000A8B37 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	00E1D27F147F52D3000A8B37 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	00E1D297147F52EA000A8B37 /* APIBase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 1072}}";
+			sepNavSelRange = "{1253, 0}";
+			sepNavVisRange = "{915, 553}";
+			sepNavWindowFrame = "{{15, 55}, {1265, 718}}";
+		};
+	};
+	00E1D298147F52EA000A8B37 /* APIBase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 2032}}";
+			sepNavSelRange = "{1480, 0}";
+			sepNavVisRange = "{1317, 679}";
+		};
+	};
+	00E1D299147F52EA000A8B37 /* APIResponse.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 768}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{45, 244}";
+		};
+	};
+	00E1D29A147F52EA000A8B37 /* APIResponse.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = abstract;\n            r = \"{188, 12}\";\n            s = 1;\n        },\n                {\n            l = description;\n            r = \"{217, 15}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 546}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {843, 496}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{146, 375}";
+		};
+	};
+	00E1D29B147F52EA000A8B37 /* TencentLoginView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2224, 4448}}";
+			sepNavSelRange = "{1095, 0}";
+			sepNavVisRange = "{835, 374}";
+		};
+	};
+	00E1D29C147F52EA000A8B37 /* TencentLoginView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 10784}}";
+			sepNavSelRange = "{13039, 0}";
+			sepNavVisRange = "{9346, 366}";
+		};
+	};
+	00E1D29D147F52EA000A8B37 /* TencentOAuth.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 5712}}";
+			sepNavSelRange = "{8428, 0}";
+			sepNavVisRange = "{8246, 462}";
+		};
+	};
+	00E1D29E147F52EA000A8B37 /* TencentOAuth.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 11696}}";
+			sepNavSelRange = "{19245, 0}";
+			sepNavVisRange = "{21186, 742}";
+		};
+	};
+	00E1D29F147F52EA000A8B37 /* TencentRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 2560}}";
+			sepNavSelRange = "{0, 4547}";
+			sepNavVisRange = "{3703, 837}";
+		};
+	};
+	00E1D2A0147F52EA000A8B37 /* TencentRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 6912}}";
+			sepNavSelRange = "{9090, 0}";
+			sepNavVisRange = "{8329, 755}";
+		};
+	};
+	00E1D2A1147F52EA000A8B37 /* TencentTargetSelector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 544}}";
+			sepNavSelRange = "{370, 0}";
+			sepNavVisRange = "{188, 451}";
+		};
+	};
+	00E1D2A2147F52EA000A8B37 /* TencentTargetSelector.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 400}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 567}";
+		};
+	};
+	00E1D2EC147F54C8000A8B37 /* QFObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 402}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	00E1D2ED147F54C8000A8B37 /* QFObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 544}}";
+			sepNavSelRange = "{794, 0}";
+			sepNavVisRange = "{41, 1481}";
+		};
+	};
+	1D3623240D0F684500981E51 /* tencentOAuthDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 397}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{0, 529}";
+		};
+	};
+	1D3623250D0F684500981E51 /* tencentOAuthDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1152}}";
+			sepNavSelRange = "{308, 0}";
+			sepNavVisRange = "{1528, 478}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* tencentOAuthDemo */ = {
+		activeExec = 0;
+		executables = (
+			00E1D273147F52B4000A8B37 /* tencentOAuthDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* tencentOAuthDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 720}}";
+			sepNavSelRange = "{712, 0}";
+			sepNavVisRange = "{411, 644}";
+			sepNavWindowFrame = "{{15, 55}, {1265, 718}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* tencentOAuthDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {949, 12048}}";
+			sepNavSelRange = "{18009, 215}";
+			sepNavVisRange = "{17782, 463}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 00E1D273147F52B4000A8B37 /* tencentOAuthDemo */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* tencentOAuthDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* tencentOAuthDemo */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 00E1D27F147F52D3000A8B37 /* Code sense */;
+		executables = (
+			00E1D273147F52B4000A8B37 /* tencentOAuthDemo */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					665,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344861791;
+			PBXWorkspaceStateSaveDate = 344861791;
+		};
+		perUserProjectItems = {
+			004CBDC11483333400D1E81E /* PlistBookmark */ = 004CBDC11483333400D1E81E /* PlistBookmark */;
+			004CBE511483363E00D1E81E /* PBXTextBookmark */ = 004CBE511483363E00D1E81E /* PBXTextBookmark */;
+			004CC06514838CF100D1E81E /* PBXTextBookmark */ = 004CC06514838CF100D1E81E /* PBXTextBookmark */;
+			0054DC071485C18C000A44E0 /* PBXTextBookmark */ = 0054DC071485C18C000A44E0 /* PBXTextBookmark */;
+			0057C0AF148773D2003F90E8 /* PBXTextBookmark */ = 0057C0AF148773D2003F90E8 /* PBXTextBookmark */;
+			0057C0C0148775EE003F90E8 /* PBXTextBookmark */ = 0057C0C0148775EE003F90E8 /* PBXTextBookmark */;
+			0057C110148787AC003F90E8 /* PBXTextBookmark */ = 0057C110148787AC003F90E8 /* PBXTextBookmark */;
+			0057C12014878918003F90E8 /* PBXTextBookmark */ = 0057C12014878918003F90E8 /* PBXTextBookmark */;
+			0057C13E14878BDD003F90E8 /* PBXTextBookmark */ = 0057C13E14878BDD003F90E8 /* PBXTextBookmark */;
+			0057C14414878BE9003F90E8 /* PBXTextBookmark */ = 0057C14414878BE9003F90E8 /* PBXTextBookmark */;
+			0057C14E14878ECB003F90E8 /* PBXTextBookmark */ = 0057C14E14878ECB003F90E8 /* PBXTextBookmark */;
+			0057C14F14878ECB003F90E8 /* PBXTextBookmark */ = 0057C14F14878ECB003F90E8 /* PBXTextBookmark */;
+			0058ABDB148C9B9500EDE95A /* PBXTextBookmark */ = 0058ABDB148C9B9500EDE95A /* PBXTextBookmark */;
+			0058AC50148CA41100EDE95A /* PBXTextBookmark */ = 0058AC50148CA41100EDE95A /* PBXTextBookmark */;
+			0058AC51148CA41100EDE95A /* PBXTextBookmark */ = 0058AC51148CA41100EDE95A /* PBXTextBookmark */;
+			0058AE16148CBE3D00EDE95A /* PBXTextBookmark */ = 0058AE16148CBE3D00EDE95A /* PBXTextBookmark */;
+			005C7ADC14876FED00C9752F /* PBXTextBookmark */ = 005C7ADC14876FED00C9752F /* PBXTextBookmark */;
+			007C6267148E275E00B976A9 /* PBXTextBookmark */ = 007C6267148E275E00B976A9 /* PBXTextBookmark */;
+			007C62C7148E2A6900B976A9 /* PBXTextBookmark */ = 007C62C7148E2A6900B976A9 /* PBXTextBookmark */;
+			007C62F0148E2C6A00B976A9 /* PBXTextBookmark */ = 007C62F0148E2C6A00B976A9 /* PBXTextBookmark */;
+			009ED3E31484EBB700ECD6FD /* PBXTextBookmark */ = 009ED3E31484EBB700ECD6FD /* PBXTextBookmark */;
+			009ED3E41484EBB700ECD6FD /* PBXTextBookmark */ = 009ED3E41484EBB700ECD6FD /* PBXTextBookmark */;
+			009ED3E81484EBB700ECD6FD /* PBXTextBookmark */ = 009ED3E81484EBB700ECD6FD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 00E1D27E147F52D3000A8B37 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* tencentOAuthDemo-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 55}, {1265, 718}}";
+		};
+	};
+}
