@@ -707,7 +707,7 @@ redirectURI = _redirectURI;
 		responseString = [responseString substringWithRange:NSMakeRange(10, [responseString length]-13)];
 	}
 	
-	NSDictionary *root = [responseString JSONValue];
+	NSDictionary *root = [responseString objectFromJSONString];
 	if ([[root allKeys] count] == 0) {
 		NSLog(@"received didLoad error");
 		[_loginDialog dismissWithSuccess:NO animated:YES];
