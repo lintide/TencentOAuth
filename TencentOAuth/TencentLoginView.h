@@ -266,4 +266,10 @@
  */
 - (void)tencentDialogNotLogin:(BOOL)cancelled;
 
+
+/*!
+ @method     tencentDidNotNetWork
+ */
+- (void)tencentDidNotNetWork;
+
 @end

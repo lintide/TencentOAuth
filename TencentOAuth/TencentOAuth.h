@@ -132,6 +132,11 @@
  */
 - (BOOL)isSessionValid;
 
+/*!
+ @method     isOpenIdValid
+ */
+- (BOOL)isOpenIdValid;
+
 ////////////////////////////////////////////////////////////////////////////////
 //APIs, can be called after accesstoken and openid have received 
 
@@ -314,8 +319,6 @@
 - (void)checkPageFansResponse:(APIResponse*) response;
 
 /**
- 
- /**
  * Called when the add_share has response.
  */
 /*!

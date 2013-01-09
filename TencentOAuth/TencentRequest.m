@@ -144,7 +144,7 @@ responseText = _responseText;
 			
 		}
 	}
-	NSString *strtr=[[NSString alloc]initWithData:body encoding:NSUTF8StringEncoding];
+//	NSString *strtr=[[NSString alloc]initWithData:body encoding:NSUTF8StringEncoding];
 
 	return body;
 }
