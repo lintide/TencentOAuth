@@ -215,7 +215,9 @@ redirectURI = _redirectURI;
 
 
 - (void)logout:(id<TencentSessionDelegate>)delegate {
-
+    self.accessToken = nil;
+    self.expirationDate = nil;
+    self.openId = nil;
 }
 
 
